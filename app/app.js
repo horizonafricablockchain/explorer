@@ -42,7 +42,7 @@ angular.module('ethExplorer', ['ngRoute', 'ui.bootstrap'])
                 keyboard: false,
                 backdrop: 'static'
             });
-            
+
             $('#connectwarning').modal('show')
         }
     });
